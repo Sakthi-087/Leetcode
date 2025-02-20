@@ -5,17 +5,19 @@ class Solution:
         tempCount = 1
 
         if len(nums)==1:
-            return tempCount
+            return 1
+        if len(nums)==0:
+            return 0
 
-        for i in range(1,len(nums)):
-            if nums[i-1]+1 == nums[i]:
+        for i in range(len(nums)-1):
+            if nums[i]+1 == nums[i+1]:
                 tempCount+=1
-            elif nums[i-1] == nums[i] and len(nums) > 3:
+            elif nums[i] == nums[i+1]:
                 continue
             else:
                 tempCount = 1
             if tempCount > count:
                     count = tempCount
-            print(tempCount,end="  ")
-            print(count)
+        if tempCount > count:
+            count = tempCount
         return count
