@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sakthi-087/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sakthi-087/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sakthi-087/Leetcode/tree/master/0344-reverse-string) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sakthi-087/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Sorting
 |  |
 | ------- |
@@ -130,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sakthi-087/Leetcode/tree/master/0189-rotate-array) |
+## Tree
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sakthi-087/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sakthi-087/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sakthi-087/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
