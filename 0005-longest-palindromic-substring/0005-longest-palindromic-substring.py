@@ -8,5 +8,4 @@ class Solution:
                 newStr += s[j]
                 if newStr == newStr[::-1] and len(maxStr) < len(newStr):
                     maxStr = newStr
-                    print(maxStr)
         return maxStr
