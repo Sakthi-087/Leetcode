@@ -1,11 +1,14 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        newStr = ""
-        maxStr = ""
+        def expandAroundCentre(left, right):
+            while left>=0 and right<len(s) and s[left]==s[right]:
+                left-=1
+                right+=1
+            return s[left+1:right]
+
+        maxStr=''
         for i in range(len(s)):
-            newStr = ""
-            for j in range(i,len(s)):
-                newStr += s[j]
-                if newStr == newStr[::-1] and len(maxStr) < len(newStr):
-                    maxStr = newStr
+            odd_palindrome = expandAroundCentre(i,i)
+            even_palindrome = expandAroundCentre(i,i+1)
+            maxStr = max(maxStr, odd_palindrome, even_palindrome, key=len)
         return maxStr
