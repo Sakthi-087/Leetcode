@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sakthi-087/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sakthi-087/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sakthi-087/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Sakthi-087/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Sakthi-087/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sakthi-087/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/Sakthi-087/Leetcode/tree/master/0454-4sum-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sakthi-087/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sakthi-087/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sakthi-087/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Sakthi-087/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Sakthi-087/Leetcode/tree/master/0344-reverse-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sakthi-087/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Sorting
