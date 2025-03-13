@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sakthi-087/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Sakthi-087/Leetcode/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Sakthi-087/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Sakthi-087/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakthi-087/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sakthi-087/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Sakthi-087/Leetcode/tree/master/0948-sort-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sakthi-087/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sakthi-087/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Sakthi-087/Leetcode/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/Sakthi-087/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakthi-087/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sakthi-087/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sakthi-087/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -252,8 +254,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sakthi-087/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Sakthi-087/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Sakthi-087/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Sakthi-087/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Sakthi-087/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
