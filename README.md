@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sakthi-087/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sakthi-087/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sakthi-087/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Sakthi-087/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sakthi-087/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sakthi-087/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakthi-087/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sakthi-087/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sakthi-087/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Sakthi-087/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sakthi-087/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sakthi-087/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sakthi-087/Leetcode/tree/master/0217-contains-duplicate) |
